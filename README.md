@@ -1,2 +1,2 @@
 # Repository for final project
-Final Project
+oaqjp-final-project-emb-ai
